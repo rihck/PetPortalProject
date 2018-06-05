@@ -1,0 +1,30 @@
+{
+  "name": "petportalproject",
+  "version": "1.0.0",
+  "description": "Project to build a pet portal and things that can help then and ONGs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickhpdev/PetPortalProject.git"
+  },
+  "keywords": [
+    "pet",
+    "project",
+    "ongs",
+    "animals"
+  ],
+  "author": "Ricardo, Henrique, Allan, Deysiane e Lydia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickhpdev/PetPortalProject/issues"
+  },
+  "homepage": "https://github.com/rickhpdev/PetPortalProject#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
